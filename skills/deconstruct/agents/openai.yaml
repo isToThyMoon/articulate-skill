@@ -1,0 +1,4 @@
+interface:
+  display_name: "Deconstruct"
+  short_description: "专业拆解：用八类、五层拆出专业输出中的术语、结论与依据"
+  default_prompt: "使用 $deconstruct 拆解刚才的专业输出，解释关键概念、关系、工作流与评价依据，并示范我以后怎样使用。"

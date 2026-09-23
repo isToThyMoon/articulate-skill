@@ -1,0 +1,4 @@
+interface:
+  display_name: "Explain"
+  short_description: "名词解释：用五层讲清一个领域词，需要时给出向 Agent 表达它的方式"
+  default_prompt: "使用 $explain 解释这个词：它是什么、怎么工作；再告诉我何时该用它，以及怎样用它向 Agent 提要求。"
